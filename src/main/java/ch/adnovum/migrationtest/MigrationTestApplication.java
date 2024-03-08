@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class MigrationTestApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(MigrationTestApplication.class, args);
+		SpringApplication.run(MigrationTestApplication.class, args); // FIXME dummy fixme
 	}
 
 }
